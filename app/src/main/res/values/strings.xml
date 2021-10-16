@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FingerPrintAuthentication</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="please_authenticate">PLEASE AUTHENTICATE</string>
+    <string name="fingerprintlogo">FINGER PRINT LOGO</string>
+</resources>
